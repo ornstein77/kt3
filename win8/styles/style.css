@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    gap: 60px;
+    width: 500%;
+    padding-top: 70px;
+    padding-left: 200px;
+}
+.column{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 414px;
+    height: 100%;
+}
+.element{
+    width: 130px;
+    height: 130px;
+    border: 1px solid #000;
+}
+.big{
+    width: 270px;
+}
+.green{
+    background-color: rgb(228, 21, 21);
+}
+.blue{
+    background-color: rgb(13, 78, 218);
+}
+
+body {
+    background-color: rgb(80, 72, 72);
+}
+
+.pink {
+    background-color: rgb(192, 29, 233);
+}
+
+.big-big {
+    width: 275px;
+    height: 275px;
+}
+
+.big-big-big {
+    height: 414px;
+}
+#user{
+    padding-left: 1700px;
+}
